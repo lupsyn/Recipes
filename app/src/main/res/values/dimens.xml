@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="receipe_title_text">16sp</dimen>
+    <dimen name="image_not_found_width">64dp</dimen>
+    <dimen name="image_not_found_height">64dp</dimen>
+</resources>
