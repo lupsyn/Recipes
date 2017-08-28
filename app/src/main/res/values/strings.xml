@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name">receipe</string>
+    <string name="app_name">Recipes</string>
     <string name="empty_List">Empty list!</string>
     <string name="receipe_ingredients">Ingredients:</string>
     <string name="progress_title">Getting issues</string>
     <string name="progress_body">Please Wait</string>
-    <string name="receipe_hit">Enter receipe to search</string>
-    <string name="receipe_not_found">No receipes found!</string>
+    <string name="receipe_hit">Enter recipe to search</string>
+    <string name="receipe_not_found">No recipes found!</string>
     <string name="receipe_error">Oops! Some error occured</string>
 </resources>
